@@ -32,7 +32,7 @@ This version adopts a more sophisticated approach to enhance solution quality at
 - **Mutation Strategy**: Adaptive mutation rate, which decreases linearly over generations, allowing more exploration early on and focusing on exploitation as the solution stabilizes.
 - **Elitism**: Preserves a fraction of the top-performing individuals (2%) in each generation, ensuring that the best solutions are retained.
 
-This version is more likely to find optimal or near-optimal solutions due to its refined selection and genetic operations. However, it requires significantly more computation time due to the larger population, more generations, and advanced operators.
+This version is more likely to find optimal or near-optimal solutions due to its refined selection and genetic operations. However, it requires significantly more computation time due to more generations, and advanced operators.
 
 ## Credits
 
